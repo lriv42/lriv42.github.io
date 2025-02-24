@@ -1,0 +1,13 @@
+{
+    "name": "Free Weather Application (now virus free!)",
+    "short_name": "Weather App",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "Scope": "/",
+    "start_url": "/",
+    "icons": [
+
+    ]
+  }
+  

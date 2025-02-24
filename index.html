@@ -22,9 +22,14 @@
                     <option value="miami">Miami</option>
                     <option value="cleveland">Cleveland</option>
                 </select>
-                <button type="button" id="btnSelect">Select</button>
+                <button class="btn btn-primary col-12" type="button" id="btnSelect">Select</button>
             </div>
-            <div id="divWeather" class="mt-2">
+            <div id="divIcon" class ="d-flex justify-content-center align-items-center"></div>
+            
+            <div id="divWeather" class="d-flex flex-column text-center align-items-center mb-4"">
+                <div id="divTemp" class="d-flex flex-column "></div>
+                <div id="divApparent" class="d-flex flex-column "></div>
+                <div id="divHumidity" class="d-flex flex-column "></div>
 
             </div>
         </form>
