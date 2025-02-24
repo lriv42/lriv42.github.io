@@ -160,3 +160,4 @@ document.querySelector('#btnSelect').addEventListener('click', async function(){
 //debugged my innerHTML (was using getElementById and not querySelector)
 //additionally i used chatgpt to debug my swal.fire error not popping up (forgot to link the js file and if statement operators (used = instead of ===))
 //additionally i used chatgpt to explain lines 41-48 again
+//additionally i used chatgpt to genrerate images for my favicons
